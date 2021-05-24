@@ -92,7 +92,7 @@ function runProgram() {
   askForName();
   //candidateName=input.question(" Enter Candidate Name:");
   // TODO 1.1c: Ask for candidate's name //
-  console.log("Welgome!");
+  console.log("Welcome!");
   
   askQuestion();
   gradeQuiz(this.candidateAnswers);
